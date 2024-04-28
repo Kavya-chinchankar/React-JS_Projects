@@ -1,6 +1,6 @@
 TODO List
 
-![Screenshot_28-4-2024_16139_localhost](https://github.com/Kavya-chinchankar/React-JS_Projects/assets/112461154/c6529bbf-c183-4f1f-b4e5-d9ae6bf8f6c2)
+![Screenshot_28-4-2024_16139_localhost](https://github.com/Kavya-chinchankar/React-JS_Projects/assets/112461154/1e44f33c-f3a8-4336-b42f-ba1e67df3d05)
 
 Weather App
 
